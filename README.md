@@ -14,7 +14,7 @@ Very few trips last longer than one hour
 
 ![TripDurationGender](https://user-images.githubusercontent.com/88443672/145277205-6e4be513-4921-4ec7-9c23-b93094ef2a0c.png)
 
-The 9.6% of data with unknown gender doesn't follow the trend of the curves set by either Male or Female.  The unknown gender curve is fairly flat, versus the steep declines show in Male/Female riders as trip duration increases.  The chart below suggests women tend have longer trip times than men.
+The 9.6% of data with unknown gender doesn't follow the trend of the curves set by either Male or Female.  The unknown gender curve is fairly flat, versus the steep declines #show in Male/Female riders as trip duration increases.  The chart below suggests women tend have longer trip times than men.
 
 ![AvgDurationGender](https://user-images.githubusercontent.com/88443672/145277244-9d49af35-b137-4643-96f7-e69e3d5716c0.png)
 
@@ -51,6 +51,6 @@ While bike usage is highest Thursday-Saturday, Saturday and Sunday show average 
 ![tripDurationbyDaySub](https://user-images.githubusercontent.com/88443672/145277838-afea4cd5-54b8-4170-9ad7-6236aef95fe0.png)
 
 ## Summary
-
+It would be very hard to convince investors that a bike-sharing program would be profitable in Des Moines without some demographic comparison between NYC and Des Moines, or without some statistics on tourism between the two cities.  What we can say is that men use the bikes in NYC more than women do, and that the times of usage on weekdays typically peak during "rush hours" or periods of time that people would go to or from work.  
 
 
