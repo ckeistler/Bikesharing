@@ -5,36 +5,46 @@ The task that module 14 challenged us with was to use Tableau to create visualiz
 
 ## Results
 ![Tripduration](https://user-images.githubusercontent.com/88443672/145277150-2facbdcd-afad-462f-a2f3-fe864a3b7e14.png)
+
 Very few trips last longer than one hour
 
 ![GenderBreakdown](https://user-images.githubusercontent.com/88443672/145277177-174837d8-4771-4464-bfb3-9aac301bc762.png)
+
 65.3% of all riders are Male, while 25.1% of riders are female.  9.6% of the riders have an unknown gender. 
 
 ![TripDurationGender](https://user-images.githubusercontent.com/88443672/145277205-6e4be513-4921-4ec7-9c23-b93094ef2a0c.png)
+
 The 9.6% of data with unknown gender doesn't follow the trend of the curves set by either Male or Female.  The unknown gender curve is fairly flat, versus the steep declines show in Male/Female riders as trip duration increases.  The chart below suggests women tend have longer trip times than men.
 
 ![AvgDurationGender](https://user-images.githubusercontent.com/88443672/145277244-9d49af35-b137-4643-96f7-e69e3d5716c0.png)
+
 As the prior chart suggested, women do have longer average trip durations than men, while unknown riders have a trip duration that is nearly double that of women.
 
 ![CheckoutTime](https://user-images.githubusercontent.com/88443672/145277283-ea40ada2-7564-4cff-b8fd-9e928d200c92.png)
+
 The heatmap of trips by weekday suggests that peak usage occurs during the morning and evening "rush hours" or as people are going to or coming from work.
 
 The![CheckoutTimeGender](https://user-images.githubusercontent.com/88443672/145277307-73b198de-c8f7-4d62-89e7-e6dcdfcb2006.png)
+
 The "rush hour" trend is at least somewhat noticeable in both male and female riders.  Given that 65% of the dataset includes male riders, the male occurance of the "rush hour" trend is more distinguishable.
 
 ![UserTripsbyGenderbyWeekday](https://user-images.githubusercontent.com/88443672/145277443-775f1a9c-bd03-4bb4-b025-dbbe63539c27.png)
+
 Non-subscriber usage shows that the ratio of male to female usage is generally 2.0 or below for weekdays, whereas the same equation is closer to 3.0 for subscribers.
 
 ![UserTripsbyWeekday](https://user-images.githubusercontent.com/88443672/145277533-9ff4a8e7-3146-4f39-a3c6-a33f4d9a074c.png)
+
 Thursday, Friday, and Saturday display considerably more rides than show Sunday-Wednesday. 
 
 ![tripSumbyDay](https://user-images.githubusercontent.com/88443672/145277746-2223eb90-5d48-48ed-baef-773dc7da4f1b.png)
+
 The sum of total duration is highest on Saturdays.  With Fridays and Thursdays coming in 2nd and 3rd respectively.
 
 ![tripSumbyDayCus](https://user-images.githubusercontent.com/88443672/145277764-7a112ee1-0ee5-4f6b-9a5f-2fcdec098264.png)
 ![tripSumbyDaySub](https://user-images.githubusercontent.com/88443672/145277774-f233fd19-89a3-40c7-81f2-9b62bec83a52.png)
 
 ![tripDurationbyDay](https://user-images.githubusercontent.com/88443672/145277788-4cbaac7b-9fbc-4047-9b68-650d4c25b159.png)
+
 While bike usage is highest Thursday-Saturday, Saturday and Sunday show average trip durations that are 20-30% higher than those occurring Monday-Friday.
 
 ![tripDurationbyDayCus](https://user-images.githubusercontent.com/88443672/145277830-91a62f9f-008e-4a0d-b587-2142bc9472fa.png)
