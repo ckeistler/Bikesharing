@@ -8,7 +8,7 @@ The task that module 14 challenged us with was to use Tableau to create visualiz
 
 Very few trips last longer than one hour
 
-![GenderBreakdown](https://user-images.githubusercontent.com/88443672/145277177-174837d8-4771-4464-bfb3-9aac301bc762.png)
+![GenderBreakdown](https://user-images.githubusercontent.com/88443672/145278824-9ec3358f-a037-4e56-86af-c148547823d7.png)
 
 65.3% of all riders are Male, while 25.1% of riders are female.  9.6% of the riders have an unknown gender. 
 
