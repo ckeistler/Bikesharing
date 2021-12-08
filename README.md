@@ -3,6 +3,8 @@
 ## Overview
 The task that module 14 challenged us with was to use Tableau to create visualizations and perform analysis on bike sharing data from New York City.  The premise of the analysis and presentation was to, “convince investors that a bike-sharing program in Des Moines is a solid business proposal”.
 
+Link to Tableau Public: https://public.tableau.com/app/profile/chris8539/viz/ChallengeCMK/CheckoutTimesforUsers?publish=yes
+
 ## Results
 ![Tripduration](https://user-images.githubusercontent.com/88443672/145277150-2facbdcd-afad-462f-a2f3-fe864a3b7e14.png)
 
