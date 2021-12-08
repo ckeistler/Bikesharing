@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Overview
-The premise of our module 14 challenge was to us Tableau to create visualizations 
+The task that module 14 challenged us with was to use Tableau to create visualizations and perform analysis on bike sharing data from New York City.  The premise of the analysis and presentation was to, “convince investors that a bike-sharing program in Des Moines is a solid business proposal”.
 
 ## Results
 
@@ -26,4 +26,6 @@ The sum of total duration is highest on Saturdays.  With Fridays and Thursdays c
 While bike usage is highest Thursday-Saturday, Saturday and Sunday show average trip durations that are 20-30% higher than those occurring Monday-Friday.
 
 ## Summary
+
+
 
